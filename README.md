@@ -1,31 +1,26 @@
-# Machine Learning com Python
+# Machine Learning with Python
 
-Bem-vindo ao repositório **Machine Learning com Python**! Aqui, você encontrará projetos que refletem meu aprendizado em inteligência artificial e machine learning.
+Welcome to the **Machine Learning with Python** repository! Here, you will find projects reflecting my journey in artificial intelligence and machine learning.
 
-## Objetivo
+## Objective
 
-O foco deste repositório é compartilhar meu aprendizado, ideias e projetos relacionados a machine learning usando Python.
-
-## Projetos
-
-- [Nome do Projeto 1]: [Breve descrição do projeto]
-- [Nome do Projeto 2]: [Breve descrição do projeto]
-- ...
+The focus of this repository is to share my learning, ideas, and projects related to machine learning using Python.
 
 
-## Como Contribuir
+## How to Contribute
 
-Se você quiser contribuir para este repositório, siga as etapas abaixo:
+If you want to contribute to this repository, follow the steps below:
 
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/nova-feature`)
-3. Faça commit das suas alterações (`git commit -am 'Adiciona nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
+1. Fork the project
+2. Create a branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
+5. Open a Pull Request
 
-## Licença
+## License
 
-Este repositório é distribuído sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para obter mais detalhes.
+This repository is distributed under the [License Name]. See the `LICENSE` file for more details.
 
-Agradeço por visitar este repositório!
+Thank you for visiting this repository! 
+
 
